@@ -67,7 +67,7 @@ By using the App, you represent and warrant that you are not:
 ## 10. Developer Name and Address
 
 SixFocus Team  
-Address: 13, Kkumnamu-gil, Yeongdo-gu, Busan, Republic of Korea
+Address: 13, Kkumnamu-gil, Yeongdo-gu, Busan, Republic of Korea  
 Contact: **sunsunhada@gmail.com**
 
 ---
