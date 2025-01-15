@@ -35,7 +35,7 @@ By using SixFocus, you agree to:
   - **Monthly Plan**: Unlock premium features for 1 month.
   - **Yearly Plan**: Unlock premium features for 1 year.
 - **Payment**: All payments are processed through the Apple App Store. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period. Refunds are subject to the policies of the Apple App Store.
-- **Price Changes**: We will notify users of any price changes at least 30 days in advance through the App or other appropriate means.
+- **Price Changes**: We will notify users of any price changes at least 30 days in advance through the App.
 
 ---
 
@@ -69,7 +69,7 @@ Your use of the App is also governed by our [Privacy Policy](https://github.com/
 
 ## 9. Changes to Terms
 
-We reserve the right to update these Terms at any time. Significant changes will be communicated through the App or other means. Continued use of the App after changes indicates acceptance of the updated Terms.
+We reserve the right to update these Terms at any time. Significant changes will be communicated through the App. Continued use of the App after changes indicates acceptance of the updated Terms.
 
 ---
 
