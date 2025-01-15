@@ -1,7 +1,7 @@
 # Terms of Use
 
 **Effective Date**: December 21, 2024  
-**Last Updated**: December 21, 2024
+**Last Updated**: January 15, 2025
 
 ---
 
@@ -32,14 +32,16 @@ By using SixFocus, you agree to:
 
 - **Free Plan**: Users can access limited features for free with ads.
 - **Premium Plan**: Users can subscribe to remove ads and unlock premium features.
+  - **Monthly Plan**: Unlock premium features for 1 month.
+  - **Yearly Plan**: Unlock premium features for 1 year.
 - **Payment**: All payments are processed through the Apple App Store. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period. Refunds are subject to the policies of the Apple App Store.
-- **Price Changes**: We reserve the right to modify subscription fees. Changes will be communicated in advance.
+- **Price Changes**: We will notify users of any price changes at least 30 days in advance through the App or other appropriate means.
 
 ---
 
 ## 5. Cancellation and Termination
 
-- Users may cancel their subscription at any time through the Apple App Store.
+- Users may cancel their subscription at any time by accessing their account settings in the Apple App Store. Cancellation will take effect at the end of the current billing cycle, and no further charges will be made.
 - We reserve the right to suspend or terminate your access to the App if you violate these Terms or misuse the service.
 
 ---
@@ -61,7 +63,7 @@ We strive to provide a reliable and secure service. However:
 
 ## 8. Privacy Policy
 
-Your use of the App is also governed by our Privacy Policy, which outlines how we collect, store, and process your data. By using the App, you consent to the terms of our Privacy Policy.
+Your use of the App is also governed by our [Privacy Policy](https://github.com/SunKimBusan/SixFocus/blob/main/PrivacyPolicy.md), which outlines how we collect, store, and process your data. By using the App, you consent to the terms of our Privacy Policy.
 
 ---
 
