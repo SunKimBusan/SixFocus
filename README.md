@@ -48,6 +48,8 @@ SixFocus is more than just a productivity app—it’s a mindset. By helping you
 
 Ready to simplify your life and focus on what truly matters? Download SixFocus today and experience productivity with clarity, purpose, and inspiration.
 
+- [SixFocus App Store](https://apps.apple.com/us/app/sixfocus/id6738138035)
+
 ---
 
 ## Legal
