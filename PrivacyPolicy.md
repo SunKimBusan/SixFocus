@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective Date**: December 21, 2024  
-**Last Updated**: December 24, 2024
+**Last Updated**: February 7, 2025
 
 ---
 
@@ -14,16 +14,11 @@ Welcome to SixFocus! Your privacy is important to us. This Privacy Policy outlin
 ## 2. Information We Collect
 
 ### a. Information You Provide
-We may collect the following information when you interact with the App:
-- Account information such as email address (if applicable).
-- Information you input into the App, such as tasks, schedules, or preferences.
+- We do not collect any information at this time.
 
 ### b. Automatically Collected Information
 When using the App, we may collect certain information automatically, including:
 - Device information such as operating system, device type, and unique identifiers (e.g., IDFA).
-- Usage data such as interactions with features in the App.
-- Diagnostic data to improve the App’s performance and fix issues.
-- Location data (if enabled) to display region-specific advertisements.
 
 ---
 
