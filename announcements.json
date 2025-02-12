@@ -1,5 +1,15 @@
 [
     {
+        "id": 6,
+        "content": "Introducing **Domain Management** in SixFocus! 🌟\n\nStarting from **version 1.2.0**, you can now organize your tasks by different areas of your life—such as **work and home**—using domains. While SixFocus encourages focusing on **six key tasks per day**, domains help you structure your productivity without losing clarity. ✨\n\nAlthough you can create **unlimited domains**, we recommend keeping them to a **minimum** to maintain your focus. Too many domains may **dilute your attention** rather than enhance productivity. 🎯\n\nYou can access domains through **Settings > Domains**, or by adding a **Domain icon** to the to-do list screen in **Settings > Appearance**. This feature will be available in **version 1.2.0**, which will be approved soon. 🚀 Stay tuned and enhance your workflow with SixFocus!",
+        "date": "12/2/2025"
+    },
+    {
+        "id": 5,
+        "content": "Unleash Your Creativity with Custom Quotes! ✨\n\nStarting from **version 1.1.0**, SixFocus now includes the **Custom Quotes feature**, allowing you to create your own inspiring quotes or save the ones that truly resonate with you. \n\nCraft words that motivate you daily and keep your focus strong! 💡\n\nUpdate now and personalize your inspiration! 🚀",
+        "date": "12/2/2025"
+    },
+    {
         "id": 4,
         "content": "Stay Updated with SixFocus! 🔔\n\nStarting from **version 1.1.0**, SixFocus includes an **update notification feature** to keep you informed about the latest improvements. However, if you are using a version **below 1.1.0**, you won’t receive update alerts automatically.\n\nIf you haven’t updated yet, please manually update to the latest version to enjoy all the new features and enhancements! 🚀\n\nWishing you continued success in your productivity journey. Stay focused and keep achieving your goals! 💙",
         "date": "9/2/2025"
