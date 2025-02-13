@@ -1,32 +1,37 @@
 [
     {
+        "id": 7,
+        "content": "**Why Six Tasks? The Idea Behind SixFocus**  🚀\n\nThe concept of the 'six-task rule' is most famously known as the **Ivy Lee Method**. In 1918, productivity consultant **Ivy Lee** introduced this method to steel magnate **Charles M. Schwab**. It’s a simple yet effective system: **write down the six most important tasks for the day and complete them in order of priority**. ✅\n\nI’ve been using this method for quite a long time. While it hasn’t led to some grand success, it has given me something even more valuable—**momentum**. No matter how difficult things get, this system helps me keep going, one step at a time. 🔄\n\nBefore anything else, I believe that **everyone should develop their own system for recording, organizing, and structuring their projects**. No tool or method will magically fix everything unless you first have a way to manage your own work effectively. 🛠️ In my case, I refine and document six essential tasks each day as part of my project management system. 📋\n\nWhy six? Honestly, it could be five or seven—I don’t have a perfect answer. But maybe, just like how honeycombs naturally form hexagons, six is simply the most **balanced and stable number**. 🐝\n\nThat’s why I created **SixFocus**—to help structure tasks in a way that promotes **consistency and focus**. I hope this system helps you stay on track and build the momentum you need. 🚀\n\nLet’s keep making progress, one step at a time! 💪",
+        "date": "2/13/2025"
+    },
+    {
         "id": 6,
         "content": "Introducing **Domain Management** in SixFocus! 🌟\n\nStarting from **version 1.2.0**, you can now organize your tasks by different areas of your life—such as **work and home**—using domains. While SixFocus encourages focusing on **six key tasks per day**, domains help you structure your productivity without losing clarity. ✨\n\nAlthough you can create **unlimited domains**, we recommend keeping them to a **minimum** to maintain your focus. Too many domains may **dilute your attention** rather than enhance productivity. 🎯\n\nYou can access domains through **Settings > Domains**, or by adding a **Domain icon** to the to-do list screen in **Settings > Appearance**. This feature will be available in **version 1.2.0**, which will be approved soon. 🚀 Stay tuned and enhance your workflow with SixFocus!",
-        "date": "12/2/2025"
+        "date": "2/12/2025"
     },
     {
         "id": 5,
         "content": "Unleash Your Creativity with Custom Quotes! ✨\n\nStarting from **version 1.1.0**, SixFocus now includes the **Custom Quotes feature**, allowing you to create your own inspiring quotes or save the ones that truly resonate with you. \n\nCraft words that motivate you daily and keep your focus strong! 💡\n\nUpdate now and personalize your inspiration! 🚀",
-        "date": "12/2/2025"
+        "date": "2/12/2025"
     },
     {
         "id": 4,
         "content": "Stay Updated with SixFocus! 🔔\n\nStarting from **version 1.1.0**, SixFocus includes an **update notification feature** to keep you informed about the latest improvements. However, if you are using a version **below 1.1.0**, you won’t receive update alerts automatically.\n\nIf you haven’t updated yet, please manually update to the latest version to enjoy all the new features and enhancements! 🚀\n\nWishing you continued success in your productivity journey. Stay focused and keep achieving your goals! 💙",
-        "date": "9/2/2025"
+        "date": "2/9/2025"
     },
     {
         "id": 3,
         "content": "Keep Your Momentum Going with SixFocus! 🚀\n\nYou're doing amazing! Here's another tip to maximize your productivity: Break larger tasks into smaller, manageable steps. This makes even the most daunting goals feel achievable and keeps you motivated as you check off each step. Remember, consistency is the key to success—keep up the great work!",
-        "date": "16/1/2025"
+        "date": "1/16/2025"
     },
     {
         "id": 2,
         "content": "Discover the Power of SixFocus! 🌟\n\nGreat to see you making progress! Here’s a tip to get even more out of SixFocus: Prioritize your tasks by focusing on the most important ones first. Did you know? Completing just one high-impact task can make your entire day feel productive. Let’s keep moving forward-your goals are waiting!",
-        "date": "16/1/2025"
+        "date": "1/16/2025"
     },
     {
         "id": 1,
         "content": "Welcome to SixFocus! 📢\n\nWe’re excited to have you here. SixFocus is designed to help you manage your time effectively and achieve your goals. Set your first task and take the first step towards a more productive day! 😊",
-        "date": "16/1/2025"
+        "date": "1/16/2025"
     }
 ]
