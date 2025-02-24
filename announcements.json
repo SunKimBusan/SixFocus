@@ -1,5 +1,10 @@
 [
     {
+        "id": 9,
+        "content": "🎉 **New Feature: Set In Stone**\n\nDear SixFocus users,\n\nWe’re excited to announce that version 1.2.5 introduces a brand new **Set in Stone** option for completed tasks. When you enable this option, the task is marked as fully complete, won’t count toward your 6-task limit, and becomes unmodifiable. Rest assured, we’ve overhauled our data structure to preserve your local data, so there’s no need to worry about any data loss.\n\nThank you for your ongoing support and trust in SixFocus. We hope this update brings enhanced efficiency and peace of mind to your daily workflow. May your tasks be ever manageable and your days filled with success and joy!\n\nBest regards,\nThe SixFocus Team",
+        "date": "2/25/2025"
+    },
+    {
         "id": 8,
         "content": "🙏 **Important Notice Regarding the Next Update**\n\nDear users,\n\nWe sincerely apologize for the inconvenience. Due to structural changes in the data system, **your local data will not be accessible after the next update**. However, if iCloud is enabled, your existing data will be retrieved through **CloudKit** shortly after the update. ☁️\n\nTo prevent any unexpected issues, we kindly ask that you **manually back up any important information** before updating. While we are doing our best to ensure a smooth transition, we want to be cautious and transparent about potential risks. 🔄\n\nWe deeply appreciate your understanding and support. Thank you for using SixFocus, and we will continue working to improve your experience. ❤️\n\nBest regards,  \nThe SixFocus Team",
         "date": "2/22/2025"
