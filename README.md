@@ -55,3 +55,11 @@ Ready to simplify your life and focus on what truly matters? Download SixFocus t
 ## Legal
 - [Privacy Policy](https://github.com/SunKimBusan/SixFocus/blob/main/PrivacyPolicy.md)
 - [Terms of Use](https://github.com/SunKimBusan/SixFocus/blob/main/TermsOfUse.md)
+
+---
+
+## About the Developer
+Covers a variety of topics beyond SixFocus.
+
+📺 [YouTube](https://www.youtube.com/@ZirohStory)
+🐦 [X (Twitter)](https://x.com/taeyangkim91)
