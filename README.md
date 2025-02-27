@@ -58,8 +58,14 @@ Ready to simplify your life and focus on what truly matters? Download SixFocus t
 
 ---
 
+## SixFocus Community
+
+- 💬 [Discord](https://discord.gg/TYAcmdEHxy)
+
+---
+
 ## About the Developer
 Covers a variety of topics beyond SixFocus.
 
-📺 [YouTube](https://www.youtube.com/@ZirohStory)
-🐦 [X (Twitter)](https://x.com/taeyangkim91)
+- 📺 [YouTube](https://www.youtube.com/@ZirohStory)
+- 🐦 [X (Twitter)](https://x.com/taeyangkim91)
