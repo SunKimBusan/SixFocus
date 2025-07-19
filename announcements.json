@@ -1,5 +1,10 @@
 [
     {
+        "id": 10,
+        "content": "🚀 **New Feature: AI Consultation & Personal Accounts are here!**\n\nHello, users!\n\nWe're thrilled to introduce our new **AI Consultation feature** and **personal account system**, designed to boost your productivity and convenience! Now, you can create your personal account with Sign in with Apple and unlock all features with a premium subscription to experience an even more powerful service.\n\nThe new AI Consultation feature will make your work more efficient, and personal accounts will provide a customized environment that perfectly meets your needs.\n\nWe'll continue to strive to provide even better services. Thank you for your continued interest and support!\n\nThanks,\nThe [Your Company Name] Team",
+        "date": "7/19/2025"
+    },
+    {
         "id": 9,
         "content": "🎉 **New Feature: Set In Stone**\n\nDear SixFocus users,\n\nWe’re excited to announce that version 1.2.5 introduces a brand new **Set in Stone** option for completed tasks. When you enable this option, the task is marked as fully complete, won’t count toward your 6-task limit, and becomes unmodifiable. Rest assured, we’ve overhauled our data structure to preserve your local data, so there’s no need to worry about any data loss.\n\nThank you for your ongoing support and trust in SixFocus. We hope this update brings enhanced efficiency and peace of mind to your daily workflow. May your tasks be ever manageable and your days filled with success and joy!\n\nBest regards,\nThe SixFocus Team",
         "date": "2/25/2025"
